@@ -1,5 +1,5 @@
 # clubday
-LAHS Club Day 2020
+LAHS Club Day 2020 Website
 
 ## Building and running on localhost
 
